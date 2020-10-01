@@ -28,7 +28,7 @@
   
 <br> 
 <div align="left"><p><a href="https://hashnode.com/@devisha"><img alt="New" align="center" src="https://img.shields.io/badge/📄-NEW-green"></a>&nbsp;
-<b>Pull requests on this repository will only be considered for Hacktoberfest 2020 as per their guidelines on <a href="https://hacktoberfest.digitalocean.com/details">their core values</a>. This repository is a simple example for beginners who can learn to create their first pull request. </b></p></div>  
+<b>Pull requests on this repository will not be considered for Hacktoberfest 2020 as per their guidelines on <a href="https://hacktoberfest.digitalocean.com/details">their core values</a>. This repository is a simple example for beginners who can learn to create their first pull request. </b></p></div>  
 
 ***  
   
